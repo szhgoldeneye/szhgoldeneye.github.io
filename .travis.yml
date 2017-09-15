@@ -3,11 +3,7 @@ node_js: stable
 
 # S: Build Lifecycle
 install:
-  - npm install
-
-
-#before_script:
- # - npm install -g gulp
+  - yarn install
 
 script:
   - hexo g

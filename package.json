@@ -16,5 +16,9 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/szhgoldeneye/blog.git",
+  "author": "He <szhgoldeneye@hotmail.com>",
+  "license": "MIT"
 }
