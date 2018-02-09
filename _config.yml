@@ -80,3 +80,6 @@ deploy:
      type: git
      repo: https://github.com/szhgoldeneye/szhgoldeneye.github.io.git
      branch: master
+
+live2d:
+     model: koharu
